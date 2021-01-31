@@ -3,8 +3,10 @@ Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions w
 
 
 ### Workshop : Unsupervised Machine Learning for Anoamlies detection
-DSC ISI Ariana 
+DSC ISI Ariana
+
 Jan 30, 2021
+
 Link: it will be added soon
 
 
