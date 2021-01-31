@@ -38,7 +38,8 @@ Oct 31, 2020
 If you make it through the selection process you'll get more than $1000 credit package.
 The Startup referral program is your path to AWS credits,
 AWS Developer Support and access to unique content, programming and other resources specific to this program in association with AWS Activate.
-These exclusive benefits will be discussed in more detail during your follow-up conversation with an AWS representative .
+These exclusive benefits will be discussed in more detail during your follow-up conversation with an AWS representative.
+https://pages.awscloud.com/AWSActivateStudentAmbassador.html
 https://www.facebook.com/100344645108536/videos/2807797619498923/
 
 
@@ -76,6 +77,7 @@ Jul 23, 2020
 Amazon Web Services Educate First Info Session in Tunisia
 150$ AWS credits for attendees
 Attendance certification 
+http://www.awseducate.com/registration?refid=cebGEjGblNrstHnuXeVFrpAqh4vVK0cb
 https://www.facebook.com/100344645108536/videos/373426363626155/
 
 
