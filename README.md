@@ -5,6 +5,7 @@ TALK + Panel : Creative Learning for Data Science
 Creative Lab
 Fev 6 & 7, 2021
 https://www.facebook.com/CreLab/videos/258310862334086/
+https://drive.google.com/drive/folders/121H11h6J0VdpCcGvW9YvHVEezt0VgLLc?usp=sharing
 
 
 Workshop : Unsupervised Machine Learning for Anoamlies detection
