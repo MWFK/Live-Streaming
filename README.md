@@ -104,6 +104,12 @@ https://www.facebook.com/101523311313955/videos/3493427664018946/
 
 
 Workshop : Analyzing Natality Data Using AI Platform and BigQuery on GCP
-May 10,2020
+May 10, 2020
 GDG Carthage + DSC Esprit
 https://www.facebook.com/watch/live/?v=289432145384176
+
+
+Workshop : Using Pre-Built AI to Solve Business Challenges
+Dec 14, 2019
+Microsoft Azure Ignite the Tour
+https://drive.google.com/drive/folders/1bF8S8r0kRj5pQUKG1OLme4D38EzwjQNp?usp=sharing
