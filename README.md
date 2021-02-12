@@ -1,6 +1,11 @@
 # AI-DS-Cloud-Live-Streaming-sessions
 Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions with GDG and DSC
 
+TALK + Panel : Creative Learning for Data Science
+Creative Lab
+Fev 6 & 7, 2021
+https://www.facebook.com/CreLab/videos/258310862334086/
+
 
 Workshop : Unsupervised Machine Learning for Anoamlies detection
 DSC ISI Ariana 
