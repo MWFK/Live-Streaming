@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/121H11h6J0VdpCcGvW9YvHVEezt0VgLLc?usp=sha
 Workshop : Unsupervised Machine Learning for Anoamlies detection
 DSC ISI Ariana 
 Jan 30, 2021
-Link: it will be added soon
+Link: https://www.youtube.com/watch?v=4fjPKvcEdGY&feature=youtu.be
 
 
 Hackathon : Mentor
