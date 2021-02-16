@@ -4,6 +4,7 @@ Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions w
 TALK + Panel : Creative Learning for Data Science
 Creative Lab
 Fev 6 & 7, 2021
+https://www.linkedin.com/posts/creative-lab-isi_mouafek-ayadi-ai-in-fintec-creative-learning-activity-6767217772985405440-eNoL
 https://www.facebook.com/CreLab/videos/258310862334086/
 https://drive.google.com/drive/folders/121H11h6J0VdpCcGvW9YvHVEezt0VgLLc?usp=sharing
 
