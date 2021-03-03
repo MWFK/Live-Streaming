@@ -1,11 +1,17 @@
 # AI-DS-Cloud-Live-Streaming-sessions
 Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions with GDG and DSC
 
+Ongoing...
+Series of Workshops : Machine Learning from Zero to Hero
+DSC SupCom
+Mar 3,4,6 2021
+https://www.facebook.com/DSC.SupCom/posts/224626759358285
+https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero
+
+Ongoing...
 Series of Workshops : Deep Learning from Zero to Hero
 Microsoft Polytechnique Sousse Club (Paid event)
 Fev 27, Mars 7, 2021
-
-
 
 TALK + Panel : Creative Learning for Data Science
 Creative Lab (Paid event)
