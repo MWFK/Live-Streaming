@@ -1,8 +1,14 @@
 # AI-DS-Cloud-Live-Streaming-sessions
 Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions with GDG and DSC
 
+Series of Workshops : Deep Learning from Zero to Hero
+Microsoft Polytechnique Sousse Club (Paid event)
+Fev 27, Mars 7, 2021
+
+
+
 TALK + Panel : Creative Learning for Data Science
-Creative Lab
+Creative Lab (Paid event)
 Fev 6 & 7, 2021
 https://www.linkedin.com/posts/creative-lab-isi_mouafek-ayadi-ai-in-fintec-creative-learning-activity-6767217772985405440-eNoL
 https://www.facebook.com/CreLab/videos/258310862334086/
@@ -118,5 +124,9 @@ https://www.facebook.com/watch/live/?v=289432145384176
 
 Workshop : Using Pre-Built AI to Solve Business Challenges
 Dec 14, 2019
-Microsoft Azure Ignite the Tour
+Global AI Bootcamp from Microsoft Azure Ignite the Tour 2019
+https://globalai.community/
+
+https://globalaibootcamptunisia2019.splashthat.com/?gz=899873f9b7a8b504&guest-access-hash=NDU3NTM5ODU4fDI3MjU1NjUxOHwxNTczOTg0OTIyOzIwNmUzN2ViOWUwYmFiMWQ4OTU3ODFlNzZmZjMzN2Q5ZjIyNDgzMTkxMzg2MGVhZWYyZTRmZTExMGE2YmMxMmE=
+
 https://drive.google.com/drive/folders/1bF8S8r0kRj5pQUKG1OLme4D38EzwjQNp?usp=sharing
