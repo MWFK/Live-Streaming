@@ -2,10 +2,16 @@
 Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions with GDG and DSC
 
 Ongoing...
-Series of Workshops : Machine Learning from Zero to Hero
+### Series of Workshops : Machine Learning from Zero to Hero
 DSC SupCom
 Mar 3,4,6 2021
+Session 1 (intro to AI and ML)
 https://www.facebook.com/DSC.SupCom/posts/224626759358285
+Session 2 (Supervised Learning)
+https://www.facebook.com/DSC.SupCom/videos/1109203829545356/
+Session 3
+...
+All Ressources
 https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero
 
 Ongoing...
