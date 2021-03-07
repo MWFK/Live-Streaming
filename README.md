@@ -1,17 +1,16 @@
 # AI-DS-Cloud-Live-Streaming-sessions
-Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions with GDG and DSC
+Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions.
 
-
-# Series of Workshops : Machine Learning from Zero to Hero
-DSC SupCom
+## Series of Workshops : Machine Learning from Zero to Hero
+### DSC SupCom
 Mar 3,4,6 2021
-### Session 1 (Supervised Learning "Classification")
+#### Session 1 (Supervised Learning "Classification")
 https://www.facebook.com/DSC.SupCom/posts/224626759358285
-### Session 2 (Supervised Learning "Regression")
+#### Session 2 (Supervised Learning "Regression")
 https://www.facebook.com/DSC.SupCom/videos/1109203829545356/
-### Session 3 (Ensemble Learning for Classification and Regression)
+#### Session 3 (Ensemble Learning for Classification and Regression)
 https://www.youtube.com/watch?v=2KK0Ffv7uEs
-### All Ressources
+#### All Ressources
 https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero
 
 Ongoing...
