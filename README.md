@@ -2,13 +2,15 @@
 Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions.
 
 
-# Isi Monastir
+# Workshop : Deep Learning
+### Isi Monastir
+
+# Talk : Artificial Intelligence
+### Isi Mahdia
 
 
-# Isi Mahdia
-
-
-# Teens in AI
+### Tech/AI Mentor
+### Teens in AI 
 
 
 # Series of Workshops : Machine Learning from Zero to Hero
