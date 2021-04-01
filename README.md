@@ -7,9 +7,11 @@ Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions.
 
 # Talk : Artificial Intelligence
 ### Isi Mahdia
+Mars 31, 2021
+Link ...
 
 
-### Tech/AI Mentor
+# Tech/AI Mentor
 ### Teens in AI 
 
 
