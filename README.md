@@ -1,6 +1,8 @@
 # AI-DS-Cloud-Live-Streaming-sessions
 Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions.
 
+
+
 # Bootcamp : Data Science and Artificial Intelligence 
 ### Tunisia Business School
 Apr 9 & 10 & 11, 2021
@@ -10,7 +12,7 @@ https://www.facebook.com/groups/310859797331390
 ##### Workshop : Machine Learning
 ### Day 2
 ##### Workshop : Ensemble Learning
-##### Compeition : Ideathon
+##### Competition : Ideathon
 ### Day 3
 ##### Workshop : Deep Learning
 ##### Ideathon pitch and winner announcement
