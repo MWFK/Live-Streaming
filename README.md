@@ -8,7 +8,7 @@
 
 
 
-# Bootcamp : Data Science and Artificial Intelligence
+# Bootcamp : Data Camp
 ### Tunisia Business School
 Apr 9 & 10 & 11, 2021
 ##### https://www.facebook.com/groups/310859797331390
@@ -29,21 +29,29 @@ https://www.linkedin.com/feed/update/urn:li:activity:6787785282377789440/
 https://www.linkedin.com/feed/update/urn:li:activity:6787870419274739712/
 
 
-
-
-
-
 # Workshop : Deep Learning
-### Isi Monastir
+### IEEE CIS ISIMM Student Chapter
+Apr 3, 2021
+##### We went through most popular Deep Learning Algorithms.
+https://fb.watch/4FCBE8a_Yd/
+
 
 # Talk : Artificial Intelligence
-### Isi Mahdia
+### DSC ISI Mahdia
 Mars 31, 2021
-Link ...
+##### We have started by explaining the diffrence between Data Science and AI
+##### Then we have talked about AI subfields one by  one.
+https://fb.watch/4FCHj_17ww/
 
 
 # Tech/AI Mentor
 ### Teens in AI 
+The Teens In AI initiative, launched at the AI for Good Global Summit at the UN in May 2018, exists to inspire the next generation of ethical AI researchers, entrepreneurs and leaders who will shape the world of tomorrow. 
+##### https://www.teensinai.com/
+https://www.facebook.com/TeensinaiHackathonTunisia
+### The team that I have mentored won the first prize
+### The following is the link to their work
+https://drive.google.com/drive/folders/1meVBgSN0v_26fjNkx3N-C8f7xiNw0QuM
 
 
 # Series of Workshops : Machine Learning from Zero to Hero
@@ -63,11 +71,13 @@ https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero
 ### Microsoft Polytechnique Sousse Club 
 Fev 27, Mars 7,27 2021
 https://github.com/MWFK/Deep-Learning-From-Zero-To-Hero
+https://www.facebook.com/watch/?v=1120997798341474
+https://www.facebook.com/MicrosoftPolytechClub/posts/221910166383509
 Videos pending ...
 
 
 # TALK + Panel : Creative Learning for Data Science
-Creative Lab (Paid event)
+Creative Lab 
 Fev 6 & 7, 2021
 https://www.linkedin.com/posts/creative-lab-isi_mouafek-ayadi-ai-in-fintec-creative-learning-activity-6767217772985405440-eNoL
 https://www.facebook.com/CreLab/videos/258310862334086/
