@@ -1,8 +1,10 @@
-
 <p align="center">
   <img width="624" height="403" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.png">
 </p>
 
+<p align="center">
+  <img src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
+</p>
 
 
 **The following are some of my IT Activism ressources and links**3
