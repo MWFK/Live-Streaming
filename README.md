@@ -7,18 +7,8 @@
 </p>
 
 
-**The following are some of my IT Activism ressources and links**3
 
-*Topics Covered*
-
-Mostly Artificial Intelligence, Data Science, Cloud, Competitions... 
-
-######################################################################
-######################################################################
-######################################################################
-
-
-# Bootcamp : Data Science and Artificial Intelligence 
+[title](Bootcamp : Data Science and Artificial Intelligence)
 ### Tunisia Business School
 Apr 9 & 10 & 11, 2021
 ##### https://www.facebook.com/groups/310859797331390
