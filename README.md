@@ -1,6 +1,6 @@
 ![MXK logo](https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.png)
 
-<img src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.png" align="center"
+<img src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.png" align="default"
      alt="MXK logo" width="default" height="default">
 
 
