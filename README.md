@@ -44,7 +44,7 @@ Mars 31, 2021
 https://fb.watch/4FCHj_17ww/
 
 
-# Tech/AI Mentor
+# Hackathon : Tech/AI Mentor
 ### Teens in AI 
 The Teens In AI initiative, launched at the AI for Good Global Summit at the UN in May 2018, exists to inspire the next generation of ethical AI researchers, entrepreneurs and leaders who will shape the world of tomorrow. 
 ##### https://www.teensinai.com/
