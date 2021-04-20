@@ -1,6 +1,6 @@
 # The following are some of my IT Activism ressources and links
-### Covered topics
-Artificial Intelligence, Data Science, Cloud, Competitions... 
+### Topics Covered
+Mostly Artificial Intelligence, Data Science, Cloud, Competitions... 
 
 
 
