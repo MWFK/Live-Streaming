@@ -1,5 +1,6 @@
-# AI-DS-Cloud-Live-Streaming-sessions
-Artificial Intelligence &amp; Data Science &amp; Cloud Live Streaming sessions.
+# The following are some of my IT Activism ressources and links
+### Covered topics
+Artificial Intelligence, Data Science, Cloud, Competitions... 
 
 
 
