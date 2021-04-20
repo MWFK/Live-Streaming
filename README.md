@@ -1,5 +1,8 @@
 ![MXK logo](https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.png)
 
+<img src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.png" align="center"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+
 
 **The following are some of my IT Activism ressources and links**3
 
