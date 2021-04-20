@@ -7,7 +7,7 @@ Mostly Artificial Intelligence, Data Science, Cloud, Competitions...
 # Bootcamp : Data Science and Artificial Intelligence 
 ### Tunisia Business School
 Apr 9 & 10 & 11, 2021
-https://www.facebook.com/groups/310859797331390
+##### https://www.facebook.com/groups/310859797331390
 ### Day 1
 ##### Talk : Data Science VS Artificial Intelligence
 ##### Workshop : Machine Learning
@@ -17,7 +17,7 @@ https://www.facebook.com/groups/310859797331390
 ### Day 3
 ##### Workshop : Deep Learning
 ##### Ideathon pitch and winner announcement
-### testimonies
+### Testimonies
 https://www.linkedin.com/feed/update/urn:li:activity:6787367841172606976/
 https://www.linkedin.com/feed/update/urn:li:activity:6787696064251076608/
 https://www.linkedin.com/feed/update/urn:li:activity:6787717646025531392/
