@@ -3,6 +3,11 @@
 <img src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.png" align="default"
      alt="MXK logo" width="default" height="default">
 
+<p align="center">
+  <img width="default" height="default" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.png">
+</p>
+
+Mark
 
 **The following are some of my IT Activism ressources and links**3
 
