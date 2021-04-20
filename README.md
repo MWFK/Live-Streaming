@@ -1,7 +1,7 @@
 ![MXK logo](https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.png)
 
 
-**The following are some of my IT Activism ressources and links**
+**The following are some of my IT Activism ressources and links**3
 
 *Topics Covered*
 
