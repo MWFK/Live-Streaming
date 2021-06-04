@@ -6,9 +6,14 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# Workshop : Deep Learning for Computer Vision
+### IEEE ENIS SBC
+### Jun 6, 2021
+Stay tuned...
+
 # Podcast : Artificial Intelligence in FinTech
 ### ISSAT Soussa
-##### May 16, 2021
+### May 16, 2021
 Link to be provided once it's officialy uploaded on youtube. 
 
 # Panel : Coding from student to professional
