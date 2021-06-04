@@ -6,15 +6,15 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
-# Panel : Coding from student to professional
-### DSC ISI Mahdia
-### May 8, 2021
-https://www.facebook.com/googledscisima/videos/462362238168169/
-
 # Podcast : Artificial Intelligence in FinTech
 ### ISSAT Soussa
 ##### May 16, 2021
 Link to be provided once it's officialy uploaded on youtube. 
+
+# Panel : Coding from student to professional
+### DSC ISI Mahdia
+### May 8, 2021
+https://www.facebook.com/googledscisima/videos/462362238168169/
 
 # Talk : Artificial Intelligence
 ### DSC ISI Mahdia
