@@ -9,7 +9,7 @@
 # Workshop : Deep Learning for Computer Vision
 ### IEEE ENIS SBC
 ### Jun 6, 2021
-Stay tuned...
+https://www.facebook.com/IEEE.AESS.ENIS.SC/videos/238433094285324/
 
 # Podcast : Artificial Intelligence in FinTech
 ### ISSAT Soussa
