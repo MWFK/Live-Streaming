@@ -6,6 +6,12 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+
+# Workshop : Clustering, Classification and Regression
+### Upkurs
+### Jun 8, 2021
+https://drive.google.com/file/d/178vftRVgl2TekBvGHGXkBwNadcQ8iP1x/view
+
 # Workshop : Deep Learning for Computer Vision
 ### IEEE ENIS SBC
 ### Jun 6, 2021
