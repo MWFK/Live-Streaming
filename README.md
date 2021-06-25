@@ -6,6 +6,10 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# Workshop : Deep Trading
+### TBS
+### Jun 20, 2021
+Link to be provided once it's uploaded on fb.
 
 # Workshop : Clustering, Classification and Regression
 ### Upkurs
