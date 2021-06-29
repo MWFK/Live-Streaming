@@ -102,7 +102,8 @@ https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero
 https://github.com/MWFK/Deep-Learning-From-Zero-To-Hero
 ##### https://www.facebook.com/watch/?v=1120997798341474
 https://www.facebook.com/MicrosoftPolytechClub/posts/221910166383509
-##### Videos pending ...
+##### Session 4 [Transfer Learning]
+https://drive.google.com/file/d/1aB3U-gZcGVbUj6Qcx7bzlm7FoYuX-W35/view?usp=sharing
 
 
 # [17, 18] Bootcamp : Creative Learning for Data Science
