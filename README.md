@@ -10,7 +10,7 @@
 # [37] Workshop : Deep Trading
 ### TBS
 ### Jun 20, 2021
-Link to be provided once it's uploaded on fb.
+https://drive.google.com/file/d/10eK0uywX5wS4OZT8jxhh81DIm7q0Wj_5/view?usp=sharing
 
 # [36] Workshop : Clustering, Classification and Regression
 ### Upkurs
