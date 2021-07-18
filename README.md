@@ -6,8 +6,12 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# [38] Workshop : Creating a Python API from Scratch [English]
+### PyLadies
+### Jul 17, 2021
+https://www.youtube.com/watch?v=ai1YlBgrTh4
 
-# [37] Workshop : Deep Trading
+# [37] Workshop : Deep Trading [English]
 ### TBS
 ### Jun 20, 2021
 https://drive.google.com/file/d/10eK0uywX5wS4OZT8jxhh81DIm7q0Wj_5/view?usp=sharing
@@ -25,7 +29,7 @@ https://www.facebook.com/IEEE.AESS.ENIS.SC/videos/238433094285324/
 # [34] Podcast : Artificial Intelligence in FinTech
 ### ISSAT Soussa
 ### May 16, 2021
-Link to be provided once it's officialy uploaded on youtube. 
+https://www.youtube.com/watch?v=Fh8EwYN_9Pg
 
 # [33] Panel : Coding from student to professional
 ### DSC ISI Mahdia
