@@ -6,6 +6,16 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# [40] Keynote Speaker : Industry 4.0 Advancing IoT Through AI [English]
+### Indonesia, Jakarta State Polytechnic.
+### Aug 7, 2021
+https://www.youtube.com/watch?v=ty9l9X0MKuk FROM 58:45 TO 2:56:00
+
+# [39] Keynote Speaker : Deep Reinforcement Learning using Big Data for Stock Market Prediction [English]
+### Big Data Innovation Conference
+### July 30, 2021 
+https://www.youtube.com/watch?v=9s_vaXofaOU FROM 1:47:30 TO 2:15:30
+
 # [38] Workshop : Creating a Python API from Scratch [English]
 ### PyLadies
 ### Jul 17, 2021
