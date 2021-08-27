@@ -6,6 +6,11 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# [41] Talk : Classical Machine Learning
+### Pioneer High Schools, Tunis
+### Aug 15, 2021
+### https://www.linkedin.com/feed/update/urn:li:activity:6832702541797613568/
+
 # [40] Keynote Speaker : Industry 4.0 Advancing IoT Through AI [English]
 ### Indonesia, Jakarta State Polytechnic.
 ### Aug 7, 2021
