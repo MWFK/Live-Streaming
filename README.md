@@ -6,6 +6,33 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# [46] Workshop : Machine Learning with Google Cloud Platform
+### IndabaX
+### Oct 10, 2021
+### https://www.indabaxtunisia.com/2021/
+### Coming up...
+
+# [45] Talk : From AI to Data Science, the tech, the future and the job market
+### ENSI
+### Oct 8, 2021
+### Coming up...
+
+# [44] IT and Pitch Mentor : Rec’IT’UP
+### National Distribution Company Oil Ajil [IEEE INSAT Power and Energy Chapter]  
+### Sep 25 & 26, 2021
+### https://www.alchourouk.com/article/la-sndp-h%C3%A9berge-au-sein-de-son-%C2%AB-agil-corporate-universety-%C2%BB-le-challenge-rec%E2%80%99it%E2%80%99
+
+# [43] Workshop : Benchmarking Algorithms for Time Series Modeling [English]
+### AMLD Africa [Swiss Federal Institute of Technology Lausanne + Google]
+### Sep 4, 2021
+### https://appliedmldays.org/events/amld-africa-2021/workshops/benchmarking-algorithms-for-time-series-modeling
+### https://www.youtube.com/watch?v=cOBMs07cZsw [00:01:45 --> 01:18:05]
+
+# [42] Workshop : Django REST framework for Web APIs [English]
+### PyLadies
+### Sep 3, 2021
+### Link will be uploaded soon...
+
 # [41] Talk : Classical Machine Learning
 ### Pioneer High Schools, Tunis
 ### Aug 15, 2021
@@ -18,7 +45,7 @@ https://www.youtube.com/watch?v=ty9l9X0MKuk FROM 58:45 TO 2:56:00
 
 # [39] Keynote Speaker : Deep Reinforcement Learning using Big Data for Stock Market Prediction [English]
 ### Big Data Innovation Conference
-### July 30, 2021 
+### Jul 30, 2021 
 https://www.youtube.com/watch?v=9s_vaXofaOU FROM 1:47:30 TO 2:15:30
 
 # [38] Workshop : Creating a Python API from Scratch [English]
