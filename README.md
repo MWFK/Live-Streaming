@@ -6,6 +6,19 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+
+# [48] Moderator : How are Millennials changing the security industry?
+### Global IT Security Summit 5th edition
+### Oct 19, 2021
+### https://pgsolx.com/supplychain/GISS/5th/
+### Coming up...
+
+# [47] Speaker : Fraud Detection using Tensorflow and Google Cloud
+### Global IT Security Summit 5th edition
+### Oct 19, 2021
+### https://pgsolx.com/supplychain/GISS/5th/
+### Coming up...
+
 # [46] Workshop : Machine Learning with Google Cloud Platform
 ### IndabaX
 ### Oct 10, 2021
