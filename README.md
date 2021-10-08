@@ -28,7 +28,7 @@
 # [45] Talk : From AI to Data Science, the tech, the future and the job market
 ### ENSI
 ### Oct 8, 2021
-### Coming up...
+### https://www.facebook.com/IEEE.ENSI.CIS/videos/857881228245987/
 
 # [44] IT and Pitch Mentor : Rec’IT’UP
 ### National Distribution Company Oil Ajil [IEEE INSAT Power and Energy Chapter]  
