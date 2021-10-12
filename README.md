@@ -10,13 +10,13 @@
 # [48] Moderator : How are Millennials changing the security industry?
 ### Global IT Security Summit 5th edition
 ### Oct 19, 2021
-### https://pgsolx.com/supplychain/GISS/5th/
+### https://www.linkedin.com/posts/platinum-global-solutions_5thglobalitsecurityconference-cybersecurity-activity-6853628333750550528-cxjG
 ### Coming up...
 
 # [47] Speaker : Fraud Detection using Tensorflow and Google Cloud
 ### Global IT Security Summit 5th edition
 ### Oct 19, 2021
-### https://pgsolx.com/supplychain/GISS/5th/
+### https://www.linkedin.com/posts/platinum-global-solutions_cybersecurity-cloudsecurity-cloud-activity-6849602344531857408-y-Vj
 ### Coming up...
 
 # [46] Workshop : Machine Learning with Google Cloud Platform
