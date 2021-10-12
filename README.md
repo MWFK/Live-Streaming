@@ -23,7 +23,8 @@
 ### IndabaX
 ### Oct 10, 2021
 ### https://www.indabaxtunisia.com/2021/
-### Coming up...
+### https://www.indabaxtunisia.com/2021/details/
+### https://drive.google.com/file/d/1xM-j_6zgs9dVO6599FW-nQJWFi_cb5w8/view?usp=sharing
 
 # [45] Talk : From AI to Data Science, the tech, the future and the job market
 ### ENSI
