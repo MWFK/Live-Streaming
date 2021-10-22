@@ -6,18 +6,27 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# [50] Interview : The Data Scientist tools and roles in business decision, and Oddo BHF AI revolution. [English]
+### Techconewz
+### Oct 21, 2021
+### Article and Video link will be added soon...
 
-# [48] Moderator : How are Millennials changing the security industry?
+# [49] Talk : Machine Learning from technical aspects to opportunities in Tunisia and abroad.
+### ISIMA
+### Oct 20, 2021
+### https://fb.watch/8OssLb8vnG/
+
+# [48] Panelist : How are Millennials changing the security industry? [English]
 ### Global IT Security Summit 5th edition
 ### Oct 19, 2021
 ### https://www.linkedin.com/posts/platinum-global-solutions_5thglobalitsecurityconference-cybersecurity-activity-6853628333750550528-cxjG
-### Coming up...
+### Video link will be added soon...
 
-# [47] Speaker : Fraud Detection using Tensorflow and Google Cloud
+# [47] Keynote Speaker : Fraud Detection using Tensorflow and Google Cloud [English]
 ### Global IT Security Summit 5th edition
 ### Oct 19, 2021
 ### https://www.linkedin.com/posts/platinum-global-solutions_cybersecurity-cloudsecurity-cloud-activity-6849602344531857408-y-Vj
-### Coming up...
+### Video link will be added soon...
 
 # [46] Workshop : Machine Learning with Google Cloud Platform
 ### IndabaX
