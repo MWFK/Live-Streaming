@@ -28,7 +28,7 @@
 ### https://www.linkedin.com/posts/platinum-global-solutions_cybersecurity-cloudsecurity-cloud-activity-6849602344531857408-y-Vj
 ### Video link will be added soon...
 
-# [46] Workshop : Machine Learning with Google Cloud Platform
+# [46] Workshop : Machine Learning with Google Cloud Platform 
 ### IndabaX
 ### Oct 10, 2021
 ### https://www.indabaxtunisia.com/2021/
@@ -54,7 +54,7 @@
 # [42] Workshop : Django REST framework for Web APIs [English]
 ### PyLadies
 ### Sep 3, 2021
-### Link will be uploaded soon...
+### https://www.youtube.com/watch?v=8FTMA9CWQF4
 
 # [41] Talk : Classical Machine Learning
 ### Pioneer High Schools, Tunis
