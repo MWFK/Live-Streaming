@@ -9,7 +9,7 @@
 # [50] Interview : The Data Scientist tools and roles in business decision, and Oddo BHF AI revolution. [English]
 ### Techconewz
 ### Oct 21, 2021
-### Article and Video link will be added soon...
+### Article and Video links will be added soon...
 
 # [49] Talk : Machine Learning from technical aspects to opportunities in Tunisia and abroad.
 ### ISIMA
