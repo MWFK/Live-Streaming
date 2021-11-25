@@ -6,6 +6,18 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# [52] Guest Speaker : AI in IOT
+### IEEE Region 8
+### Nov 24, 2021
+### https://fb.watch/9ukSld2ayM/
+
+# [51] Bootcamp : Data Science on Microsoft Azure MAchine Learning 
+### ENSI (National School for Computer Science)
+### Nov 13 & & 14, 2021
+### 2 * Presentation (Data Science prez, MS Azure Machine Learning prez)
+### 2 * Workshop (Data Science Workshop, Machine Learning workshop)
+### Link to be uploaded soon
+
 # [50] Interview : The Data Scientist tools and roles in business decision, and Oddo BHF AI revolution. [English]
 ### Techconewz
 ### Oct 21, 2021
