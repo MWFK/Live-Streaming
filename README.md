@@ -6,119 +6,119 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
-# [54] Guest Speaker : AI in IOT
+# [56] Guest Speaker : AI in IOT
 ### IEEE Region 8
 ### Nov 24, 2021
 ### https://fb.watch/9ukSld2ayM/
 
-# [51, 52, 53] Bootcamp : Data Science on Microsoft Azure MAchine Learning 
+# [53, 54, 55] Bootcamp : Data Science on Microsoft Azure MAchine Learning 
 ### ENSI (National School for Computer Science)
 ### Nov 13 & & 14, 2021
 ### 2 * Presentation (Data Science prez, MS Azure Machine Learning prez)
 ### 2 * Workshop (Data Science Workshop, Machine Learning workshop)
 ### Link to be uploaded soon
 
-# [50] Interview : The Data Scientist tools and roles in business decision, and Oddo BHF AI revolution. [English]
+# [52] Interview : The Data Scientist tools and roles in business decision, and Oddo BHF AI revolution. [English]
 ### Techconewz
 ### Oct 21, 2021
 ### Article and Video links will be added soon...
 
-# [49] Talk : Machine Learning from technical aspects to opportunities in Tunisia and abroad.
+# [51] Talk : Machine Learning from technical aspects to opportunities in Tunisia and abroad.
 ### ISIMA
 ### Oct 20, 2021
 ### https://fb.watch/8OssLb8vnG/
 
-# [48] Panelist : How are Millennials changing the security industry? [English]
+# [50] Panelist : How are Millennials changing the security industry? [English]
 ### Global IT Security Summit 5th edition
 ### Oct 19, 2021
 ### https://www.linkedin.com/posts/platinum-global-solutions_5thglobalitsecurityconference-cybersecurity-activity-6853628333750550528-cxjG
 ### Video link will be added soon...
 
-# [47] Keynote Speaker : Fraud Detection using Tensorflow and Google Cloud [English]
+# [49] Keynote Speaker : Fraud Detection using Tensorflow and Google Cloud [English]
 ### Global IT Security Summit 5th edition
 ### Oct 19, 2021
 ### https://www.linkedin.com/posts/platinum-global-solutions_cybersecurity-cloudsecurity-cloud-activity-6849602344531857408-y-Vj
 ### Video link will be added soon...
 
-# [46] Workshop : Machine Learning with Google Cloud Platform 
+# [48] Workshop : Machine Learning with Google Cloud Platform 
 ### IndabaX
 ### Oct 10, 2021
 ### https://www.indabaxtunisia.com/2021/
 ### https://www.indabaxtunisia.com/2021/details/
 ### https://drive.google.com/file/d/1xM-j_6zgs9dVO6599FW-nQJWFi_cb5w8/view?usp=sharing
 
-# [45] Talk : From AI to Data Science, the tech, the future and the job market
+# [47] Talk : From AI to Data Science, the tech, the future and the job market
 ### ENSI
 ### Oct 8, 2021
 ### https://www.facebook.com/IEEE.ENSI.CIS/videos/857881228245987/
 
-# [44] IT and Pitch Mentor : Rec’IT’UP
+# [46] IT and Pitch Mentor : Rec’IT’UP
 ### National Distribution Company Oil Ajil [IEEE INSAT Power and Energy Chapter]  
 ### Sep 25 & 26, 2021
 ### https://www.alchourouk.com/article/la-sndp-h%C3%A9berge-au-sein-de-son-%C2%AB-agil-corporate-universety-%C2%BB-le-challenge-rec%E2%80%99it%E2%80%99
 
-# [43] Workshop : Benchmarking Algorithms for Time Series Modeling [English]
+# [45] Workshop : Benchmarking Algorithms for Time Series Modeling [English]
 ### AMLD Africa [Swiss Federal Institute of Technology Lausanne + Google]
 ### Sep 4, 2021
 ### https://appliedmldays.org/events/amld-africa-2021/workshops/benchmarking-algorithms-for-time-series-modeling
 ### https://www.youtube.com/watch?v=cOBMs07cZsw [00:01:45 --> 01:18:05]
 
-# [42] Workshop : Django REST framework for Web APIs [English]
+# [44] Workshop : Django REST framework for Web APIs [English]
 ### PyLadies
 ### Sep 3, 2021
 ### https://www.youtube.com/watch?v=8FTMA9CWQF4
 
-# [41] Talk : Classical Machine Learning
+# [43] Talk : Classical Machine Learning
 ### Pioneer High Schools, Tunis
 ### Aug 15, 2021
 ### https://www.linkedin.com/feed/update/urn:li:activity:6832702541797613568/
 
-# [40] Keynote Speaker : Industry 4.0 Advancing IoT Through AI [English]
+# [42] Keynote Speaker : Industry 4.0 Advancing IoT Through AI [English]
 ### Indonesia, Jakarta State Polytechnic.
 ### Aug 7, 2021
 https://www.youtube.com/watch?v=ty9l9X0MKuk FROM 58:45 TO 2:56:00
 
-# [39] Keynote Speaker : Deep Reinforcement Learning using Big Data for Stock Market Prediction [English]
+# [41] Keynote Speaker : Deep Reinforcement Learning using Big Data for Stock Market Prediction [English]
 ### Big Data Innovation Conference
 ### Jul 30, 2021 
 https://www.youtube.com/watch?v=9s_vaXofaOU FROM 1:47:30 TO 2:15:30
 
-# [38] Workshop : Creating a Python API from Scratch [English]
+# [40] Workshop : Creating a Python API from Scratch [English]
 ### PyLadies
 ### Jul 17, 2021
 https://www.youtube.com/watch?v=ai1YlBgrTh4
 
-# [37] Workshop : Deep Trading [English]
+# [39] Workshop : Deep Trading [English]
 ### TBS
 ### Jun 20, 2021
 https://drive.google.com/file/d/10eK0uywX5wS4OZT8jxhh81DIm7q0Wj_5/view?usp=sharing
 
-# [36] Workshop : Clustering, Classification and Regression
+# [38] Workshop : Clustering, Classification and Regression
 ### Upkurs
 ### Jun 8, 2021
 https://drive.google.com/file/d/178vftRVgl2TekBvGHGXkBwNadcQ8iP1x/view
 
-# [35] Workshop : Deep Learning for Computer Vision
+# [37] Workshop : Deep Learning for Computer Vision
 ### IEEE ENIS SBC
 ### Jun 6, 2021
 https://www.facebook.com/IEEE.AESS.ENIS.SC/videos/238433094285324/
 
-# [34] Podcast : Artificial Intelligence in FinTech
+# [36] Podcast : Artificial Intelligence in FinTech
 ### ISSAT Soussa
 ### May 16, 2021
 https://www.youtube.com/watch?v=Fh8EwYN_9Pg
 
-# [33] Panel : Coding from student to professional
+# [35] Panel : Coding from student to professional
 ### DSC ISI Mahdia
 ### May 8, 2021
 https://www.facebook.com/googledscisima/videos/462362238168169/
 
-# [32] Talk : Artificial Intelligence
+# [34] Talk : Artificial Intelligence
 ### DSC ISI Mahdia
 ### Mars 31, 2021
 https://www.facebook.com/googledscisima/videos/434874674280365/
 
-# [29, 30, 31] Bootcamp : Data Camp
+# [31, 32, 33] Bootcamp : Data Camp
 ### Tunisia Business School
 Apr 9 & 10 & 11, 2021
 ##### https://www.facebook.com/groups/310859797331390
@@ -139,14 +139,14 @@ https://www.linkedin.com/feed/update/urn:li:activity:6787785282377789440/
 https://www.linkedin.com/feed/update/urn:li:activity:6787870419274739712/
 
 
-# [28] Workshop : Deep Learning
+# [30] Workshop : Deep Learning
 ### IEEE CIS ISIMM Student Chapter
 Apr 3, 2021
 ##### We went through most popular Deep Learning Algorithms.
 https://fb.watch/4FCBE8a_Yd/
 
 
-# [27] Talk : Artificial Intelligence
+# [29] Talk : Artificial Intelligence
 ### DSC ISI Mahdia
 Mars 31, 2021
 ##### We have started by explaining the diffrence between Data Science and AI
@@ -154,7 +154,7 @@ Mars 31, 2021
 https://fb.watch/4FCHj_17ww/
 
 
-# [26] Hackathon : Tech/AI Mentor
+# [28] Hackathon : Tech/AI Mentor
 ### Teens in AI 
 The Teens In AI initiative, launched at the AI for Good Global Summit at the UN in May 2018, exists to inspire the next generation of ethical AI researchers, entrepreneurs and leaders who will shape the world of tomorrow. 
 ##### https://www.teensinai.com/
@@ -164,7 +164,7 @@ https://www.facebook.com/TeensinaiHackathonTunisia
 https://drive.google.com/drive/folders/1meVBgSN0v_26fjNkx3N-C8f7xiNw0QuM
 
 
-# [23, 24, 25] Series of Workshops : Machine Learning from Zero to Hero
+# [25, 26, 27] Series of Workshops : Machine Learning from Zero to Hero
 ### DSC SupCom
 Mars 3,4,6 2021
 #### Session 1 (Supervised Learning "Classification")
@@ -177,7 +177,7 @@ https://www.youtube.com/watch?v=2KK0Ffv7uEs
 https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero
 
 
-# [19, 20, 21, 22] Series of Workshops : Deep Learning from Zero to Hero
+# [21, 22, 23, 24] Series of Workshops : Deep Learning from Zero to Hero
 ### Microsoft Polytechnique Sousse Club 
 ##### Fev 27, Mars 7,27 2021
 https://github.com/MWFK/Deep-Learning-From-Zero-To-Hero
@@ -187,9 +187,9 @@ https://www.facebook.com/MicrosoftPolytechClub/posts/221910166383509
 https://drive.google.com/file/d/1aB3U-gZcGVbUj6Qcx7bzlm7FoYuX-W35/view?usp=sharing
 
 
-# [17, 18] Bootcamp : Creative Learning for Data Science
+# [19, 20] Bootcamp : Creative Learning for Data Science
 ### Creative Lab
-##### Fev 6 & 7, 2021
+### Fev 6 & 7, 2021
 ### TALK 
 The talk covered Machine Learning, Deep Learning, Reiforcement Learning used in FinTech.
 ### Panel
@@ -200,15 +200,22 @@ https://www.linkedin.com/posts/creative-lab-isi_mouafek-ayadi-ai-in-fintec-creat
 https://www.facebook.com/CreLab/photos/3702155596496854
 ##### https://drive.google.com/drive/folders/121H11h6J0VdpCcGvW9YvHVEezt0VgLLc?usp=sharing
 
-
-# [16] Workshop : Unsupervised Machine Learning for Anoamlies detection
+# [18] Workshop : Unsupervised Machine Learning for Anoamlies detection
 ### DSC ISI Ariana 
 ##### Jan 30, 2021
 https://www.youtube.com/watch?v=4fjPKvcEdGY&feature=youtu.be
 
-# [15] Bootcamp : DSC Weekend Tunisia
+# [15, 16, 17] Bootcamp : DSC Weekend Tunisia
 ##### Dec 26 & 27, 2020
 DSC Weekend Tunisia is organized by 11 Tunisian DSC leads. It is targeting the university students and the Data Science enthusiasts in Tunisia. The event is going to be the biggest collaboration between more than 11 universities from all over Tunisia. Through the event, we will be streaming live tech talks and Machine Learning/ Artificial intelligence related workshops. The workshops will cover three levels: Introductory, intermediate and advanced. Then we will wrap up the event with the AI/ML Hackathon. It is going to be a 24-hour hackathon and the whole competition in going to be on Zindi Platform.
+The event
+https://www.facebook.com/DSC.TUNISIA/posts/118600640102885
+I have mentored this competition
+https://www.facebook.com/DSC.TUNISIA/posts/117950956834520
+I was the moderator of the panel
+https://www.facebook.com/DSC.TUNISIA/videos/749178195805726
+I have delivered this NLP workshop
+https://www.facebook.com/DSC.TUNISIA/posts/117213783574904
 
 # [14] Panel : Host
 ##### Theme : AI in Tunisia and new trends
@@ -224,7 +231,6 @@ https://www.facebook.com/DSC.TUNISIA/posts/117213783574904
 https://zindi.africa/hackathons/sentiment-analysis-on-tunisian-google-play-store-reviews
 ##### https://www.facebook.com/DSC.TUNISIA/photos/118599253436357
 https://www.facebook.com/DSC.TUNISIA/photos/117950936834522
-
 
 # [11] Info Session : AWS Educate StartUp program
 ### AWS Educate
@@ -244,28 +250,28 @@ Analyse Google Merchandise Store Data (Ecommerce dataset) in the Cloud with BigQ
 ##### https://www.facebook.com/OfficialGDGCarthage/videos/2733273636946539/
 
 
-# [9] Workshop : Processing Data with Google Cloud Dataflow
+# [09] Workshop : Processing Data with Google Cloud Dataflow
 ### DSC ENICarthage
 ##### Oct 14, 2020
 During our introductory workshop, we will get an overview of what Data Science is today and how it relates to analytics and artificial intelligence along with Qwiklabs.
 ##### https://www.youtube.com/watch?v=56JDqZwQJv4
 
 
-# [8] Workshop : BigQuery for Data Analysis
+# [08] Workshop : BigQuery for Data Analysis
 ### DSC SUP'COM
 ##### Sep 15, 2020
 Use GCP BigQuery for Data Analysis, using qwiklabs.
 ##### https://www.youtube.com/watch?v=LNnzI2Z59ME
 
 
-# [7] Workshop : Chatbot with DialogFlow
+# [07] Workshop : Chatbot with DialogFlow
 ### GDG Carthage
 ##### Aug 20, 2020
 In this workshop you will be able to implement a Chatbot for pizza ordering using DialogFlow a natural language understanding platform used to design and integrate a conversational user interface into mobile apps, web applications, devices, bots, interactive voice response systems, and so on.
 ##### https://www.facebook.com/OfficialGDGCarthage/videos/679485639313281/
 
 
-# [6] Info Session : AWS Educate program
+# [06] Info Session : AWS Educate program
 ### AWS Educate
 ##### Jul 23, 2020
 Amazon Web Services Educate First Info Session in Tunisia, 
@@ -275,14 +281,14 @@ Attendance certification
 https://www.facebook.com/100344645108536/videos/373426363626155/
 
 
-# [5] Workshop : Business Intelligence Workshop On GCP
+# [05] Workshop : Business Intelligence Workshop On GCP
 ### DSC Esprit
 ##### Jul 9, 2020
 During this workshop we’ll help you understand how much is possible with BI and how you can take a step forward in your career and how much can you achieve with BI.
 ##### https://www.facebook.com/DSC.ESPRIT/videos/623958008223712
 
 
-# [4] Workshop : Deploying a python flask web application To App engine
+# [04] Workshop : Deploying a python flask web application To App engine
 ### DSC Esprit
 ##### Jun 3, 2020
 If you're developing a web app in Python, chances are you're leveraging a framework.
@@ -290,20 +296,20 @@ We're going to use Flask as an example of website deployment into Google’s App
 ##### https://www.facebook.com/101523311313955/videos/2347745192198369/
 
 
-# [3] Workshop : AI Platform: Qwik Start
+# [03] Workshop : AI Platform: Qwik Start
 ### DSC Esprit
 ##### May 20, 2020
 This course is intended for those who wish to learn about ML from a practical, applied perspective that will enable you to use machine learning in your everyday projects and learn about the power of TensorFlow .
 ##### https://www.facebook.com/101523311313955/videos/3493427664018946/
 
 
-# [2] Workshop : Analyzing Natality Data Using AI Platform and BigQuery on GCP
+# [02] Workshop : Analyzing Natality Data Using AI Platform and BigQuery on GCP
 ### GDG Carthage + DSC Esprit
 ##### May 10, 2020
 ##### https://www.facebook.com/watch/live/?v=289432145384176
 
 
-# [1] Workshop : Using Pre-Built AI to Solve Business Challenges using Azure
+# [01] Workshop : Using Pre-Built AI to Solve Business Challenges using Azure
 ### Global AI Bootcamp from Microsoft Azure Ignite the Tour 2019
 ##### Dec 14, 2019
 https://globalai.community/
