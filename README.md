@@ -16,12 +16,13 @@
 ### Nov 13 & & 14, 2021
 ### 2 * Presentation (Data Science prez, MS Azure Machine Learning prez)
 ### 2 * Workshop (Data Science Workshop, Machine Learning workshop)
-### Link to be uploaded soon
+### https://drive.google.com/file/d/1Wlzp-Wfzo-tqpxRJ-WgNC_JA6GTiRabE/view?usp=sharing
+### https://github.com/MWFK/Azure-Machine-Learning-Studio
 
 # [52] Interview : The Data Scientist tools and roles in business decision, and Oddo BHF AI revolution. [English]
 ### Techconewz
 ### Oct 21, 2021
-### Article and Video links will be added soon...
+### Article and Video links will be added in January 2022.
 
 # [51] Talk : Machine Learning from technical aspects to opportunities in Tunisia and abroad.
 ### ISIMA
@@ -183,6 +184,9 @@ https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero
 https://github.com/MWFK/Deep-Learning-From-Zero-To-Hero
 ##### https://www.facebook.com/watch/?v=1120997798341474
 https://www.facebook.com/MicrosoftPolytechClub/posts/221910166383509
+##### Session 2,3 [Deep Learning]
+https://drive.google.com/file/d/1AJkcVvh1oosXfhXJKXShLtVf8hhtP_Bn/view?usp=sharing
+https://drive.google.com/file/d/1VTAucLoja_kCFlOyQ42W-QV9eDrnFVui/view?usp=sharing
 ##### Session 4 [Transfer Learning]
 https://drive.google.com/file/d/1aB3U-gZcGVbUj6Qcx7bzlm7FoYuX-W35/view?usp=sharing
 
