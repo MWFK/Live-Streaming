@@ -6,6 +6,14 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# [57] Head Tutor : AI Startups & Innovation: Launching AI Businesses, Products, and Services [English]
+### Imperial College Business School - London, UK 
+### November & December 2021
+### https://www.imperial.ac.uk/business-school/executive-education/online-programmes/ai-startups-Innovation/
+### NLP Workshop: Amazon Alexa Reviews Sentiment Analysis.
+### https://github.com/MWFK/NLP-from-Zero-to-Hero
+### https://drive.google.com/file/d/1KepCNvEy_n1iyFQfumPLLCQ5hisen-EF/view?usp=sharing
+
 # [56] Guest Speaker : AI in IOT
 ### IEEE Region 8
 ### Nov 24, 2021
