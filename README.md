@@ -14,7 +14,7 @@
 ### https://github.com/MWFK/NLP-from-Zero-to-Hero
 ### https://drive.google.com/file/d/1KepCNvEy_n1iyFQfumPLLCQ5hisen-EF/view?usp=sharing
 
-# [56] Guest Speaker : AI in IOT
+# [56] Guest Speaker : AI in IOT [English]
 ### IEEE Region 8
 ### Nov 24, 2021
 ### https://fb.watch/9ukSld2ayM/
