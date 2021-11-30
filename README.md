@@ -327,3 +327,9 @@ This course is intended for those who wish to learn about ML from a practical, a
 https://globalai.community/
 ##### https://globalaibootcamptunisia2019.splashthat.com/?gz=899873f9b7a8b504&guest-access-hash=NDU3NTM5ODU4fDI3MjU1NjUxOHwxNTczOTg0OTIyOzIwNmUzN2ViOWUwYmFiMWQ4OTU3ODFlNzZmZjMzN2Q5ZjIyNDgzMTkxMzg2MGVhZWYyZTRmZTExMGE2YmMxMmE=
 https://drive.google.com/drive/folders/1bF8S8r0kRj5pQUKG1OLme4D38EzwjQNp?usp=sharing
+
+# [00] Other Links
+### Hult Prize 2018
+### https://www.thedailytimes.com/news/maryville-college-students-solar-powered-data-center-design-advances-to-regional-hult-prize-competition/article_e81711c8-7c8f-5e63-ad66-91cfab964bde.html
+### Arab Innovation Academy 2020
+###https://www.inacademy.eu/blog/top-startups-aia-2020/ [Scroll down to Hitnget]
