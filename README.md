@@ -19,7 +19,7 @@
 ### Nov 24, 2021
 ### https://fb.watch/9ukSld2ayM/
 
-# [53, 54, 55] Bootcamp : Data Science on Microsoft Azure MAchine Learning 
+# [53, 54, 55] Bootcamp : Data Science on Microsoft Azure Machine Learning 
 ### ENSI (National School for Computer Science)
 ### Nov 13 & & 14, 2021
 ### 2 * Presentation (Data Science prez, MS Azure Machine Learning prez)
