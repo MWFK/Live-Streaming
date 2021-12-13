@@ -41,13 +41,13 @@
 ### Global IT Security Summit 5th edition
 ### Oct 19, 2021
 ### https://www.linkedin.com/posts/platinum-global-solutions_5thglobalitsecurityconference-cybersecurity-activity-6853628333750550528-cxjG
-### Video link will be added soon...
+### https://www.youtube.com/watch?v=rsOFIc6udVI 04:27:55 --> 05:15:00
 
 # [49] Keynote Speaker : Fraud Detection using Tensorflow and Google Cloud [English]
 ### Global IT Security Summit 5th edition
 ### Oct 19, 2021
 ### https://www.linkedin.com/posts/platinum-global-solutions_cybersecurity-cloudsecurity-cloud-activity-6849602344531857408-y-Vj
-### Video link will be added soon...
+### https://www.youtube.com/watch?v=rsOFIc6udVI 03:59:15 --> 04:27:55
 
 # [48] Workshop : Machine Learning with Google Cloud Platform 
 ### IndabaX
