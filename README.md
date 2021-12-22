@@ -6,6 +6,12 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# [58] TensorFlow for beginners [English]
+### Tunis Business School
+### Dec 22, 2021
+### https://fb.watch/a3hbbmvkWO/
+### https://github.com/MWFK/TensorFlow-Certificate-study-materials
+
 # [57] Head Tutor : AI Startups & Innovation: Launching AI Businesses, Products, and Services [English]
 ### Imperial College Business School - London, UK 
 ### November & December 2021
