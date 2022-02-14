@@ -10,7 +10,7 @@
 ### Google Developer Groupe Carthage, ENIT, TBS, Sup'COM
 ### Feb 12, 2022
 ### https://www.facebook.com/events/611038389991496
-### Link to be uploaded soon...
+### Video Link to be uploaded soon...
 
 # [58] TensorFlow for beginners [English]
 ### Tunis Business School
