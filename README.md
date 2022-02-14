@@ -6,13 +6,19 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# [59] DevFest 2021 
+### Google Developer Groupe Carthage, ENIT, TBS, Sup'COM
+### Feb 12, 2022
+### https://www.facebook.com/events/611038389991496
+### Link to be uploaded soon...
+
 # [58] TensorFlow for beginners [English]
 ### Tunis Business School
 ### Dec 22, 2021
 ### https://fb.watch/a3hbbmvkWO/
 ### https://github.com/MWFK/TensorFlow-Certificate-study-materials
 
-# [57] Head Tutor : AI Startups & Innovation: Launching AI Businesses, Products, and Services [English]
+# [57] AI Startups & Innovation: Launching AI Businesses, Products, and Services [English]
 ### Imperial College Business School - London, UK 
 ### November & December 2021
 ### https://www.imperial.ac.uk/business-school/executive-education/online-programmes/ai-startups-Innovation/
