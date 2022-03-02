@@ -6,8 +6,18 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
-# [59] DevFest 2021 
-### Google Developer Groupe Carthage, ENIT, TBS, Sup'COM
+# [61] TensorFlow for Time Series Forecasting
+### IEEE ENSI CIS chapter: Data Science Hackathon (GODS1.0)
+### Feb 26, 2022
+### Streaming link to be uploaded soon
+
+# [60] Back to the Future (Startups, Leardership, AI, IOT)
+### IEEE INSAT Student Branch
+### Feb 26, 2022
+### Streaming link to be uploaded soon
+
+# [59] Vertex AI for Fraud Detection
+### DevFest 2021: Google Developer Groupe Carthage, ENIT, TBS, Sup'COM
 ### Feb 12, 2022
 ### https://www.facebook.com/events/611038389991496
 ### https://www.youtube.com/watch?v=KxJdIkSJeZM
