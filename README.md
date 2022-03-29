@@ -6,6 +6,12 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# [62] The moderator of the AI Business in Tunisia Panel
+### ENIT, GDG Carthage Women Techmakers
+### Mar 5, 2022 
+### https://www.facebook.com/gdsc.enit/videos/494349715466234/
+### https://www.facebook.com/gdsc.enit/videos/2488537754621660
+
 # [61] TensorFlow for Time Series Forecasting
 ### IEEE ENSI CIS chapter: Data Science Hackathon (GODS1.0)
 ### Feb 26, 2022
