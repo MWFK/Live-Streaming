@@ -6,6 +6,13 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+
+
+# [62] Google Africa Scholarship Program Cloud Mentor and Judge
+### Google Andela program
+### May 25, 2022 
+### https://drive.google.com/file/d/1OLqZv6blhQVJEiZUrWQkmWuEWcfS5R7e/view?usp=sharing
+
 # [62] The moderator of the AI Business in Tunisia Panel
 ### ENIT, GDG Carthage Women Techmakers
 ### Mar 5, 2022 
