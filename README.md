@@ -15,12 +15,12 @@
 # [61] TensorFlow for Time Series Forecasting
 ### IEEE ENSI CIS chapter: Data Science Hackathon (GODS1.0)
 ### Feb 26, 2022
-### Streaming link to be uploaded soon
+### https://ieeemeetings.webex.com/recordingservice/sites/ieeemeetings/recording/690d219d7932103abfbf005056a84e25/playback
 
 # [60] Back to the Future (Startups, Leardership, AI, IOT)
 ### IEEE INSAT Student Branch
 ### Feb 26, 2022
-### Streaming link to be uploaded soon
+### https://www.youtube.com/watch?v=ClydMmIUmuQ
 
 # [59] Vertex AI for Fraud Detection
 ### DevFest 2021: Google Developer Groupe Carthage, ENIT, TBS, Sup'COM
