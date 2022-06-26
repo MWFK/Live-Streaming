@@ -6,42 +6,65 @@
   <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
 </p>
 
+# [69] Host : AI Leadership Q&A Session 
+### Jun 02, 2022 
+### MIT SA+P Sloan Executive Education Courseware 
+### https://drive.google.com/file/d/1LyYDNZAI4exQaKbsbjjvEuL6K3seupOw/view?usp=sharing
 
-
-# [62] Google Africa Scholarship Program Cloud Mentor and Judge
+# [68] Google Africa Scholarship Program Cloud Mentor and Judge
 ### Google Andela program
 ### May 25, 2022 
 ### https://drive.google.com/file/d/1OLqZv6blhQVJEiZUrWQkmWuEWcfS5R7e/view?usp=sharing
 
-# [62] The moderator of the AI Business in Tunisia Panel
+# [67] Host : AI Leadership Mid-Course Q&A Event
+### May 23, 2022 
+### MIT SA+P Sloan Executive Education Courseware 
+### https://drive.google.com/file/d/1JbVEEi-0O86pJkOUwvj1pqnEJmFrmtl2/view?usp=sharing
+
+# [66] Host : AI Leadership Q&A Session
+### MIT SA+P Sloan Executive Education Courseware 
+### May 19, 2022 
+### https://drive.google.com/file/d/1vT3T5QNuqAdCmepwzuJNat264yY9kBzw/view?usp=sharing
+
+# [65] Host : AI Startups & Innovation Program- Live Mid-Programme Q&A Event
+### London Imperial College Business School Executive Education courseware 
+### March 10, 2022 
+### https://drive.google.com/file/d/1ejTbHA2hvpU0IxFpfiSJGc9Qhr1aOnhx/view?usp=sharing
+
+# [64] The moderator of the AI Business in Tunisia Panel
 ### ENIT, GDG Carthage Women Techmakers
 ### Mar 5, 2022 
 ### https://www.facebook.com/gdsc.enit/videos/494349715466234/
 ### https://www.facebook.com/gdsc.enit/videos/2488537754621660
 
-# [61] TensorFlow for Time Series Forecasting
+# [63] TensorFlow for Time Series Forecasting
 ### IEEE ENSI CIS chapter: Data Science Hackathon (GODS1.0)
 ### Feb 26, 2022
 ### https://ieeemeetings.webex.com/recordingservice/sites/ieeemeetings/recording/690d219d7932103abfbf005056a84e25/playback
 
-# [60] Back to the Future (Startups, Leardership, AI, IOT)
+# [62] Back to the Future (Startups, Leardership, AI, IOT)
 ### IEEE INSAT Student Branch
 ### Feb 26, 2022
 ### https://www.youtube.com/watch?v=ClydMmIUmuQ
 
-# [59] Vertex AI for Fraud Detection
+# [61] Host : AI Leadership Mid-Course Q&A event
+### MIT SA+P Sloan Executive Education Courseware 
+### Feb 21, 2022 
+### https://drive.google.com/file/d/1EPuJYf7W3mHzqwK0UhAVOeWLrBlpZh-A/view?usp=sharing
+
+# [60] Vertex AI for Fraud Detection
 ### DevFest 2021: Google Developer Groupe Carthage, ENIT, TBS, Sup'COM
 ### Feb 12, 2022
 ### https://www.facebook.com/events/611038389991496
 ### https://www.youtube.com/watch?v=KxJdIkSJeZM
 
-# [58] TensorFlow for beginners [English]
+# [59] TensorFlow for beginners [English]
 ### Tunis Business School
 ### Dec 22, 2021
 ### https://fb.watch/a3hbbmvkWO/
 ### https://github.com/MWFK/TensorFlow-Certificate-study-materials
 
-# [57] AI Startups & Innovation: Launching AI Businesses, Products, and Services [English]
+# [58] AI Startups & Innovation: Launching AI Businesses, Products, and Services [English]
 ### Imperial College Business School - London, UK 
 ### November & December 2021
 ### https://www.imperial.ac.uk/business-school/executive-education/online-programmes/ai-startups-Innovation/
@@ -49,10 +72,15 @@
 ### https://github.com/MWFK/NLP-from-Zero-to-Hero
 ### https://drive.google.com/file/d/1KepCNvEy_n1iyFQfumPLLCQ5hisen-EF/view?usp=sharing
 
-# [56] Guest Speaker : AI in IOT [English]
+# [57] Guest Speaker : AI in IOT [English]
 ### IEEE Region 8
 ### Nov 24, 2021
 ### https://fb.watch/9ukSld2ayM/
+
+# [56] Host : AI Startups & Innovation Program- Live Mid-Programme Q&A Event
+### London Imperial College Business School Executive Education courseware 
+### Nov 22, 2021 
+### https://drive.google.com/file/d/1b_JE0Nn153WV7NfxuljnCSthDGLIWN5U/view?usp=sharing
 
 # [53, 54, 55] Bootcamp : Data Science on Microsoft Azure Machine Learning 
 ### ENSI (National School for Computer Science)
