@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="1000" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.gif">
+  <img width="1000" src="https://github.com/MWFK/Live-Streaming/blob/17746b9f7558ef685e237858e700237c86f54442/Quatrix.gif">
 </p>
 
 # [69] Host : AI Leadership Q&A Session 
