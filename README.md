@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="624" height="403" src="https://github.com/MWFK/AI-DS-Cloud-Live-Streaming-sessions/blob/main/MXK.png">
+  <img width="624" height="403" src="https://github.com/MWFK/Live-Streaming/blob/c763f9b9951b4abae45b27e977fe2dd63b0b5930/MXK.jpg">
 </p>
 
 <p align="center">
