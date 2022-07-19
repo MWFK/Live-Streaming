@@ -6,9 +6,17 @@
   <img width="1000" src="https://github.com/MWFK/Live-Streaming/blob/17746b9f7558ef685e237858e700237c86f54442/Quatrix.gif">
 </p>
 
+# [70] Lead Learning Facilitator
+### Esme Learning is the provider of the mentionned courses in partnership with the mentionned universities
+### 2021, Ongoing
+### Mouafek is the Lead Learning Facilitator for the AI Leadership course provided by MIT SA+P and MIT Media Lab
+### https://drive.google.com/file/d/1HpmaVC5pjTjhHlMuoFWwwSArMghhnuIv/view?usp=sharing
+### Mouafek was the Learning Facilitator for the AI Startups & Innovation course provided 
+### https://drive.google.com/file/d/1Qnln7PveBpEQc_dXHAWE8K3rDQ7TUGvS/view?usp=sharing
+
 # [69] Host : AI Leadership Q&A Session 
-### Jun 02, 2022 
 ### MIT SA+P Sloan Executive Education Courseware 
+### Jun 02, 2022 
 ### https://drive.google.com/file/d/1LyYDNZAI4exQaKbsbjjvEuL6K3seupOw/view?usp=sharing
 
 # [68] Google Africa Scholarship Program Cloud Mentor and Judge
@@ -17,8 +25,8 @@
 ### https://drive.google.com/file/d/1OLqZv6blhQVJEiZUrWQkmWuEWcfS5R7e/view?usp=sharing
 
 # [67] Host : AI Leadership Mid-Course Q&A Event
-### May 23, 2022 
 ### MIT SA+P Sloan Executive Education Courseware 
+### May 23, 2022 
 ### https://drive.google.com/file/d/1JbVEEi-0O86pJkOUwvj1pqnEJmFrmtl2/view?usp=sharing
 
 # [66] Host : AI Leadership Q&A Session
