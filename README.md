@@ -6,6 +6,12 @@
   <img width="1000" src="https://github.com/MWFK/Live-Streaming/blob/17746b9f7558ef685e237858e700237c86f54442/Quatrix.gif">
 </p>
 
+# [71] Vlog : SCRUM & CRISPDM
+### AI Startups & Innovation Program (London Imperial College) | AI Leadership program (MIT)
+### July, 2022
+### https://drive.google.com/file/d/1uAzklmirgQUqmHkzkUgYVqMMqRzPBmYx/view?usp=sharing
+### https://drive.google.com/file/d/1uNY3k_tZrYUiT79dKDNvrHUj8hsufMBH/view?usp=sharing
+
 # [70] Lead Learning Facilitator
 ### Esme Learning is the provider of the mentionned courses in partnership with the mentionned universities
 ### 2021, Ongoing
