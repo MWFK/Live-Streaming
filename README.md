@@ -8,7 +8,7 @@
 
 # [71] Vlog : SCRUM & CRISPDM
 ### AI Startups & Innovation Program (London Imperial College) | AI Leadership program (MIT)
-### July, 2022
+### Jul, 2022
 ### https://drive.google.com/file/d/1uAzklmirgQUqmHkzkUgYVqMMqRzPBmYx/view?usp=sharing
 ### https://drive.google.com/file/d/1uNY3k_tZrYUiT79dKDNvrHUj8hsufMBH/view?usp=sharing
 
