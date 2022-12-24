@@ -6,6 +6,22 @@
   <img width="1000" src="https://github.com/MWFK/Live-Streaming/blob/17746b9f7558ef685e237858e700237c86f54442/Quatrix.gif">
 </p>
 
+# [72] Lead Learning Facilitator 
+### MIT SA+P
+### MIT Management Executive Education AI Leadership program
+### Sep, Oct, Nov, 2022 
+### Mid-course event with Professor Alex Pentland and Professor Deborah Ancona
+### https://drive.google.com/file/d/1OuGJ1RbZYui6u7wd0goYqmHNNzD2Ldqj/view?usp=share_link
+### Open Office Hours Sessions(1-6, Sep-Nov)
+### https://drive.google.com/file/d/1wx8gHhgDm9JeFD-WSJQLxl-LbXIdbe1e/view?usp=share_link
+### https://drive.google.com/file/d/1rITS52gCyHBmttkzuLgawhIqLmeVrUNC/view?usp=share_link
+### https://drive.google.com/file/d/11EExz0dfJuQ72v-05B_LurrOfQiGmKr-/view?usp=share_link
+### https://drive.google.com/file/d/1REijs-TtiZPb7roMBx-1PkRTsMv_-3J0/view?usp=share_link
+### https://drive.google.com/file/d/1y86xaROLK8tgB7YLZ3fcNYsW2RQGi-Ev/view?usp=share_link
+### https://drive.google.com/file/d/1qpYWY0rl0JPjUsAe88TJhX5qG_Aw90D_/view?usp=share_link
+
+
+
 # [71] Vlog : SCRUM & CRISPDM
 ### AI Startups & Innovation Program (London Imperial College) | AI Leadership program (MIT)
 ### Jul, 2022
