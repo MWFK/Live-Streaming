@@ -7,10 +7,9 @@
 </p>
 
 # [73] Learning Facilitator 
-### MIT Media Lab
-### Executive Education: Human and AI Collaboration program
+### MIT Media Lab Executive Education: Human and AI Collaboration program
 ### Jan 17, 2023 
-### Kick-Off event with Professor Alex Pentland, Professor Cynthia Breazeal, Dr. Kate Darling, Co-Director Matthew Daggett
+### Kick-Off event with Professor Alex Pentland, Professor Cynthia Breazeal, Dr. Kate Darling, Matthew Daggett
 ### https://drive.google.com/file/d/1XXtdhuuEaiUpYxEefmMk8Vl9lAj2ne-x/view?usp=share_link
 
 # [72] Lead Learning Facilitator 
