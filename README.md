@@ -6,6 +6,13 @@
   <img width="1000" src="https://github.com/MWFK/Live-Streaming/blob/17746b9f7558ef685e237858e700237c86f54442/Quatrix.gif">
 </p>
 
+# [73] Learning Facilitator 
+### MIT Media Lab
+### Executive Education: Human and AI Collaboration program
+### Jan 17, 2023 
+### Kick-Off event with Professor Alex Pentland, Professor Cynthia Breazeal, Dr. Kate Darling, Co-Director Matthew Daggett
+### https://drive.google.com/file/d/1XXtdhuuEaiUpYxEefmMk8Vl9lAj2ne-x/view?usp=share_link
+
 # [72] Lead Learning Facilitator 
 ### MIT SA+P
 ### MIT Management Executive Education AI Leadership program
